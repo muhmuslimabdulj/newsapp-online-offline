@@ -1,6 +1,6 @@
 # About
 
-Ini adalah proyek latihan yang mengimplementasikan fitur online dan offline untuk membaca berita terbaru dari [NewsAPI](https://newsapi.org/v2/).
+Ini adalah proyek latihan yang mengimplementasikan fitur online dan offline untuk membaca berita terbaru dari [NewsAPI](https://newsapi.org).
 
 ## Fitur
 
